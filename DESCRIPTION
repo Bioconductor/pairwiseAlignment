@@ -15,8 +15,8 @@ Authors@R: c(
 	person("Patrick", "Aboyoun", role="aut"),
 	person("Robert", "Gentleman", role="aut"),
 	person("Hervé", "Pagès", role="cre",
-		email="hpages.on.github@gmail.com"),
-		comment=c(ORCID="0009-0002-8272-4522"))
+		email="hpages.on.github@gmail.com",
+		comment=c(ORCID="0009-0002-8272-4522")))
 Depends: BiocGenerics, S4Vectors, IRanges, Biostrings (>= 2.71.5)
 Imports: methods, utils
 LinkingTo: S4Vectors, IRanges, XVector, Biostrings
